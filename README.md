@@ -113,7 +113,3 @@ Cada função faz uma coisa só: recebe uma tabela, faz o tratamento ou a análi
 - A base não tem CID, histórico de uso dos beneficiários nem datas de entrada e saída do plano.
 - A receita do período foi estimada a partir da mensalidade de um único mês.
 - Os resultados mostram associações entre as variáveis, e não relações de causa e efeito.
-
-## Observação sobre o computador usado
-
-No computador onde desenvolvi o código, o Controle Inteligente de Aplicativos do Windows bloqueou alguns arquivos de certas versões das bibliotecas (numpy, scikit-learn e statsmodels). As versões que estão no `requirements.txt` são as que funcionaram.
